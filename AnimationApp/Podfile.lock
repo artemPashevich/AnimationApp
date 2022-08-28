@@ -1,0 +1,30 @@
+PODS:
+  - NVActivityIndicatorView (5.1.1):
+    - NVActivityIndicatorView/Base (= 5.1.1)
+  - NVActivityIndicatorView/Base (5.1.1)
+  - Spring (1.0.6)
+
+DEPENDENCIES:
+  - NVActivityIndicatorView
+  - Spring (from `https://github.com/MengTo/Spring.git`)
+
+SPEC REPOS:
+  trunk:
+    - NVActivityIndicatorView
+
+EXTERNAL SOURCES:
+  Spring:
+    :git: https://github.com/MengTo/Spring.git
+
+CHECKOUT OPTIONS:
+  Spring:
+    :commit: 50d92a5b9e08848387ae95bf44c6ad20834f7083
+    :git: https://github.com/MengTo/Spring.git
+
+SPEC CHECKSUMS:
+  NVActivityIndicatorView: 1f6c5687f1171810aa27a3296814dc2d7dec3667
+  Spring: 3d113f14575ef79aec9c5f906dfa4f5001c03254
+
+PODFILE CHECKSUM: 61b3abe8d817b57e338b35e5c2a3fed7ca1e654f
+
+COCOAPODS: 1.11.3
